@@ -78,7 +78,7 @@ versões.
 A árvore pendura o **segundo** argumento no primeiro, e o primeiro já está na árvore grande.
 Todo elemento novo aponta direto para a raiz.
 
-Os mesmos pares com os argumentos **trocados** — `une(1,0)`, `une(2,1)`, `une(3,2)` — viram
+Os mesmos pares com os argumentos **trocados**, que sao `une(1,0)`, `une(2,1)` e `une(3,2)`, viram
 uma corrente de n elementos.
 
 ```
